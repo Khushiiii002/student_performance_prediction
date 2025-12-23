@@ -31,14 +31,16 @@ It demonstrates **data preprocessing, model training, evaluation, and visualizat
   - **Confusion Matrix**: Visualizes correct vs incorrect predictions
 
 ### Confusion Matrix Example
-![Confusion Matrix](confusion_matrix.png)  
-> Replace `confusion_matrix.png` with your actual screenshot.
+![Confusion Matrix](confusion_matrix.png)<img width="628" height="558" alt="confusion_matrix png" src="https://github.com/user-attachments/assets/6bb7ba6c-a6c0-4ebd-8228-73bfef313671" />
+  
+
 
 - **Feature Graphs**: Show how each factor affects the outcome
 
 ### Feature Graphs Example
-![Feature Graphs](feature_graphs.png)  
-> Replace `feature_graphs.png` with your actual screenshot.
+![Feature Graphs](feature_graphs.png)  <img width="1799" height="596" alt="features_graph png" src="https://github.com/user-attachments/assets/1fcb33cd-9bf2-4ca1-9eb5-2660b9e5f90e" />
+
+
 
 ---
 
