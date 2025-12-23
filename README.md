@@ -58,19 +58,22 @@ git clone https://github.com/Khushiiii002/student_performance_prediction.git
 python student_performance.py
 ```
 ---
-Output includes
--Model accuracy printed in the console
--Confusion matrix graph
--Feature distribution graphs
+## Output
+- Model accuracy printed in the console
+- Confusion matrix graph
+- Feature distribution graphs
+
 ---
-Tools & Libraries
-`Python`
-`Pandas`
-`NumPy`
-`scikit-learn`
-`Matplotlib`
+
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+
 ---
-Author
-Khushi Sheth
-GitHub: https://github.com/Khushiiii002
----
+
+## Author
+**Khushi Sheth**  
+GitHub: [https://github.com/Khushiiii002](https://github.com/Khushiiii002)
