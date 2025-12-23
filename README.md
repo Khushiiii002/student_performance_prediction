@@ -61,13 +61,13 @@ python student_performance.py
 -`Feature distribution graphs`
 ---
 **Tools & Libraries**
--`Python`
--`Pandas`
--`NumPy`
--`scikit-learn`
--`Matplotlib`
+`Python`
+`Pandas`
+`NumPy`
+`scikit-learn`
+`Matplotlib`
 ---
 **Author**
--`Khushi Sheth`
+`Khushi Sheth`
 `GitHub: https://github.com/Khushiiii002`
 ---
