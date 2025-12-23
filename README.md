@@ -46,3 +46,27 @@ It demonstrates **data preprocessing, model training, evaluation, and visualizat
 1. Clone the repository:
 ```bash
 git clone https://github.com/Khushiiii002/student_performance_prediction.git
+```
+2. Install required Python libraries:
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib
+   ```
+3. Run the Python script:
+```bash
+python student_performance.py
+```
+**Output includes**:
+-`Model accuracy printed in the console`
+-`Confusion matrix graph`
+-`Feature distribution graphs`
+
+**Tools & Libraries**
+-`Python`
+-`Pandas`
+-`NumPy`
+-`scikit-learn`
+-`Matplotlib`
+
+**Author**
+Khushi Sheth
+GitHub: https://github.com/Khushiiii002
