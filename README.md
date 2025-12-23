@@ -57,6 +57,7 @@ git clone https://github.com/Khushiiii002/student_performance_prediction.git
 ```bash
 python student_performance.py
 ```
+---
 ##Output includes##
 -Model accuracy printed in the console
 -Confusion matrix graph
