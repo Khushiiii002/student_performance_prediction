@@ -59,14 +59,14 @@ python student_performance.py
 -`Model accuracy printed in the console`
 -`Confusion matrix graph`
 -`Feature distribution graphs`
-
+---
 **Tools & Libraries**
 -`Python`
 -`Pandas`
 -`NumPy`
 -`scikit-learn`
 -`Matplotlib`
-
+---
 **Author**
 Khushi Sheth
 GitHub: https://github.com/Khushiiii002
